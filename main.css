@@ -1,0 +1,125 @@
+body {
+    background-color: #00B6AE;
+}
+
+.menu {
+    background-color: rgb(0, 153, 153);
+    border-radius: 30px;
+    font-size: medium;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    border: #07746e 2px solid;
+    height: 70px;
+    align-items: center;
+    justify-content: space-around;
+    padding: 2px;
+}
+
+.link {
+    margin: 20px;
+
+}
+
+.link:hover {
+
+    zoom: 1.07;
+}
+
+.link2:hover{
+    background-color: white;
+    color: #07746e;
+    border: #07746e 2px solid;
+    border-radius: 200px;
+}
+.link2 {
+    color: white;
+    text-decoration: none;
+}
+
+h1, h3{
+    color: white;
+}
+
+.pa > p {
+    color: white;
+}
+
+.img {
+    float: right;
+    
+
+}
+
+.marcas {
+    width: 200px;
+    margin: 10px;
+    position: relative;
+    text-align: center;
+}
+
+.holder {
+    height: 275px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color: white;
+}
+
+.zoom:hover {
+    zoom: 1.02;
+}
+
+.rodape {
+    background-color: rgb(0, 153, 153);
+    color: #0e3d3b;
+    font-size: medium;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 30px;
+    border: #07746e 2px solid;
+    padding: 5px;
+}
+
+.logo{
+    justify-content: right;
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+}
+
+.logo:hover{
+    -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);
+}
+
+h4{
+    font-size: larger;
+    margin-left: 10px;
+}
+
+.ctt{
+    justify-content: space-evenly;
+
+    text-align: center;
+    display: flex;
+    text-decoration: none;
+    color: #0e3d3b;
+}
+
+
+
+.cttnome{
+    text-decoration: none;
+    color: #0e3d3b;
+    width: 420px;
+}
+
+.cttnome:hover{
+    zoom: 1.03;
+}
+
+.local{
+    margin-left: 20px;
+}

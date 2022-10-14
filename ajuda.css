@@ -1,0 +1,64 @@
+.form{
+    color: white;
+    background-color: rgb(0, 153, 153);;
+    width: 300px;
+    height: 600px;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border: #07746e 3px solid;
+    border-radius: 10px;
+}
+
+.alinhamento{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+body{
+    background-color: #00B6AE;
+}
+
+.centro{
+    display: inline-block;
+    width: 215px;
+}
+
+.logo{
+    padding-top: 5px;
+    width: 250px;
+    height: 50px;   
+}
+
+.botao{
+    background-color: white;
+    border: #07746e 2px solid;
+    color: #07746e;
+    opacity:0.7;
+}
+
+.botao:hover{
+    opacity:1;
+}
+
+.menu{
+    background-color: white;
+    height: 25px;
+    width: 55px;
+    border: #07746e 2px solid;
+    border-radius: 7px;
+}
+
+.link{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    text-decoration: none;
+    font-size: large;
+    color: #07746e;
+}
